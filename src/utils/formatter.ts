@@ -8,4 +8,4 @@ export class Formatter {
             day: '2-digit',
         }).format(date);
     }
-  }
+}
